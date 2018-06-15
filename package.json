@@ -8,7 +8,10 @@
     "gatsby-link": "^1.6.40",
     "gatsby-plugin-catch-links": "^1.0.23",
     "gatsby-plugin-react-helmet": "^2.0.11",
-    "react-helmet": "^5.2.0"
+    "gatsby-source-filesystem": "^1.5.38",
+    "gatsby-transformer-remark": "^1.7.43",
+    "react-helmet": "^5.2.0",
+    "react-media": "^1.8.0"
   },
   "keywords": [
     "gatsby"
